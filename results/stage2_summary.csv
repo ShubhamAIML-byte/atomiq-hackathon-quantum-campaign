@@ -1,0 +1,13 @@
+metric,value
+qaoa_selected_ids,C0170;C0338;C0081;C0256;C0188;C0252
+qaoa_objective_value,4.150981
+qaoa_budget_used,12
+qaoa_capacity_used,12
+qaoa_bitstring,1101001101
+qaoa_gamma,1.3631
+qaoa_beta,0.7847
+classical_optimal_ids,C0170;C0338;C0079;C0256;C0322;C0252
+classical_optimal_value,9.217550
+classical_budget_used,10
+classical_capacity_used,13
+optimality_gap,5.066569

@@ -1,0 +1,2 @@
+quantum_estimate_ideal,quantum_estimate_noisy,exact_analytical_result,monte_carlo_result,quantum_absolute_error,quantum_relative_error_pct,monte_carlo_absolute_error,simulation_shots,circuit_transpiled_depth,two_qubit_gate_count,swap_count
+0.038,0.04351,0.0384292221167625,0.03876,0.0004292221167625024,1.1169159642585618,0.00033077788323750135,100000,2,0,0

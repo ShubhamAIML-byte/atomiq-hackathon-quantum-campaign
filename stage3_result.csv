@@ -1,0 +1,7 @@
+qubit_index,customer_id,stage1_probability,circuit_rotation_theta_rad,circuit_gate,bit_ordering_convention
+0,C0170,0.1518117043021512,0.8004600842297616,ry,q[0] is bit 0 from right (little-endian)
+1,C0338,0.1401680757557507,0.7674782725025637,ry,q[1] is bit 1 from right (little-endian)
+2,C0079,0.1381086567841134,0.7615277196969676,ry,q[2] is bit 2 from right (little-endian)
+3,C0256,0.1357464159612359,0.7546561040995435,ry,q[3] is bit 3 from right (little-endian)
+4,C0322,0.133182445275932,0.7471403696048794,ry,q[4] is bit 4 from right (little-endian)
+5,C0252,0.1329728131304431,0.7465231847255447,ry,q[5] is bit 5 from right (little-endian)
